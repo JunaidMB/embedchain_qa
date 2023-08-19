@@ -1,0 +1,7 @@
+.env
+.DS_Store
+
+chroma_basics.py
+embedchain_example_app.py
+
+/docs

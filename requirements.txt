@@ -1,0 +1,4 @@
+chromadb==0.4.2
+embedchain==0.0.40
+langchain==0.0.237
+python-dotenv==1.0.0
